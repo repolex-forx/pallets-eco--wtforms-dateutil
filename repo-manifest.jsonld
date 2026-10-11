@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/pallets-eco/wtforms-dateutil/commit/fbd183d4fc51f520b0b7a16900060beea9c9b57e",
       "git:hexsha": "fbd183d4fc51f520b0b7a16900060beea9c9b57e",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "0.1.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "0.1.0",
+      "repolex:parsedAt": "2026-10-11T01:58:25.700007+00:00"
     }
   ]
 }
