@@ -1,0 +1,30 @@
+{
+  "manifest_version": "1.0",
+  "org": "pallets-eco",
+  "repo": "wtforms-dateutil",
+  "versions": [
+    {
+      "commit": "fbd183d4fc51f520b0b7a16900060beea9c9b57e",
+      "parsed_at": "2026-10-11T01:56:12.164714+00:00",
+      "tag": "0.1.0",
+      "filetree": "filetree/fbd183d4fc51f520b0b7a16900060beea9c9b57e.nq.gz",
+      "blobs": [
+        "blob/c82334553632d12caf96bd3d3d332d9683d2635c.nq.gz",
+        "blob/c8d28a0f34803d1ddfe6beb2e3ade4a03396a855.nq.gz",
+        "blob/03fb64641a72f727f36810f2dc95d28af13ca934.nq.gz",
+        "blob/80811a2849111b865d42f58d71d91efe1e74d7c5.nq.gz",
+        "blob/9dc69eb1653ab477eca8bc51de9106057e89757d.nq.gz",
+        "blob/77a44ba684eade19892ec8c147826c40c4681403.nq.gz",
+        "blob/585310614bcee55273fc891e467c5783b1123a92.nq.gz",
+        "blob/19b243360c85e75dca09559d4d465ddf2de12a13.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/66574c235510466448def7ac301ef6a3d1386573.nq.gz",
+        "blob/a66b70f80a4ed31ee23e108adf73d8ad60e34ae8.nq.gz",
+        "blob/b6e47617de110dea7ca47e087ff1347cc2646eda.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
